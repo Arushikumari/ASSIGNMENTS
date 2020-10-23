@@ -92,7 +92,7 @@
       <a href="https://www.facebook.com/welovechhotabheem/"
         >Link to Chhota Bheem's Facebook</a
       >
-      <br />
+      <br /><be>
       <a href="https://www.google.com">Link to Google</a>
     </div>
 
@@ -118,7 +118,7 @@
       <label for="raju">Raju is Bheem's Friend</label>
       <br />
       <input type="checkbox" name="friends" id="Chutki" />
-      <label for="Chutki">Chutki is Bheem's Friend</label>
+      <label for="Chutki">Chutki is Bheem's Friend.She is the Daughter of Fun Tun Mossi Who prepares energy ladoos for bheem</label>
       <br />
       <input type="checkbox" name="friends" id="kalia" />
       <label for="kalia">kalia is Bheem's Friend</label>
